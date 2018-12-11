@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9283" started-at="2018-12-09T12:42:01Z" finished-at="2018-12-09T12:42:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9283" started-at="2018-12-09T12:42:01Z" finished-at="2018-12-09T12:42:10Z">
+      <class name="com.project.feature.Feature1">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:com.project.feature.Feature1@4b9e13df]" name="beforeSuite" is-config="true" duration-ms="4484" started-at="2018-12-09T18:11:56Z" finished-at="2018-12-09T18:12:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7dc3712]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.project.feature.Feature1@4b9e13df]" name="beforeTest" is-config="true" duration-ms="1" started-at="2018-12-09T18:12:01Z" finished-at="2018-12-09T18:12:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.project.feature.Feature1@4b9e13df]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-12-09T18:12:01Z" finished-at="2018-12-09T18:12:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.project.feature.Feature1@4b9e13df]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-12-09T18:12:01Z" finished-at="2018-12-09T18:12:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod1()[pri:0, instance:com.project.feature.Feature1@4b9e13df]" name="beforeMethod1" is-config="true" duration-ms="0" started-at="2018-12-09T18:12:01Z" finished-at="2018-12-09T18:12:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.project.feature.Feature1@4b9e13df]" name="test" duration-ms="9258" started-at="2018-12-09T18:12:01Z" finished-at="2018-12-09T18:12:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.project.feature.Feature1@4b9e13df]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-12-09T18:12:10Z" finished-at="2018-12-09T18:12:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.project.feature.Feature1@4b9e13df]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-12-09T18:12:10Z" finished-at="2018-12-09T18:12:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.project.feature.Feature1@4b9e13df]" name="afterSuite" is-config="true" duration-ms="986" started-at="2018-12-09T18:12:10Z" finished-at="2018-12-09T18:12:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.project.feature.Feature1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
